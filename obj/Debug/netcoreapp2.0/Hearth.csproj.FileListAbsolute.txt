@@ -1,0 +1,10 @@
+C:\projects\Hearth\bin\Debug\netcoreapp2.0\Hearth.deps.json
+C:\projects\Hearth\bin\Debug\netcoreapp2.0\Hearth.runtimeconfig.json
+C:\projects\Hearth\bin\Debug\netcoreapp2.0\Hearth.runtimeconfig.dev.json
+C:\projects\Hearth\bin\Debug\netcoreapp2.0\Hearth.dll
+C:\projects\Hearth\bin\Debug\netcoreapp2.0\Hearth.pdb
+C:\projects\Hearth\obj\Debug\netcoreapp2.0\Hearth.csproj.CoreCompileInputs.cache
+C:\projects\Hearth\obj\Debug\netcoreapp2.0\Hearth.AssemblyInfoInputs.cache
+C:\projects\Hearth\obj\Debug\netcoreapp2.0\Hearth.AssemblyInfo.cs
+C:\projects\Hearth\obj\Debug\netcoreapp2.0\Hearth.dll
+C:\projects\Hearth\obj\Debug\netcoreapp2.0\Hearth.pdb
